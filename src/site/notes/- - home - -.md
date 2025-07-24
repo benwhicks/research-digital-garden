@@ -5,6 +5,11 @@
 #admin 
 This is [[People/Ben Hicks\|my]] [[extended-mind\|extended mind]] for my research, part of which is headed towards a PhD in [[learning-analytics\|Learning Analytics]] with [[connected-intelligence-centre\|CIC]] at [[university-of-technology-sydney\|university-of-technology-sydney]]. I am interested in how we understand and model [[complex-system\|complex systems]], particularly those in [[education-system\|education]]. I have spent over a decade in the classroom prior to diving into the world of data, so understanding the [[tacit-knowledge\|tacit-knowledge]] of [[context-experts\|context experts]] in education drives a lot of my research agenda. 
 
+```juggl
+..
+layout: force-directed
+```
+
 # Research Overview
 
 ## Research Questions
