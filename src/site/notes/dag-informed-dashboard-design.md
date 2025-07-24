@@ -11,7 +11,7 @@ ChattyG thinking about this - https://chatgpt.com/share/67bd0efb-e45c-800a-95ab-
 
 ## Paper ideas
 
-[[People/Joshua Weidlich\|Joshua Weidlich]] keen to on this, grouped under [[writing--dag-informed-dashboard-case-study\|writing--dag-informed-dashboard-case-study]], although had second thoughts and was wondering how the applications might work in a non-dashboard feedback environment.
+[[People/Joshua Weidlich\|Joshua Weidlich]] keen to on this, grouped under [[writing-on-hold--dag-informed-dashboard-case-study\|writing-on-hold--dag-informed-dashboard-case-study]], although had second thoughts and was wondering how the applications might work in a non-dashboard feedback environment.
 
 Some reading: https://learning-analytics.info/index.php/JLA/article/view/8399 
 
