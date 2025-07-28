@@ -8,7 +8,7 @@ Madeo, D., Talarico, A., Pascual-Leone, A., Mocenni, C., & Santarnecchi, E. (201
  
 #mathematical-modelling/game-theory 
 
-#todo/summarise for [[writing--causal-games-in-education-systems\|writing--causal-games-in-education-systems]], as an example of (perhaps) modelling cognition using [[evolutionary-game-theory\|Evolutionary Game Theory]]
+#todo/summarise for [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]], as an example of (perhaps) modelling cognition using [[evolutionary-game-theory\|Evolutionary Game Theory]]
 
 
 # Notes

@@ -5,10 +5,7 @@
 #admin 
 This is [[People/Ben Hicks\|my]] [[extended-mind\|extended mind]] for my research, part of which is headed towards a PhD in [[learning-analytics\|Learning Analytics]] with [[connected-intelligence-centre\|CIC]] at [[university-of-technology-sydney\|university-of-technology-sydney]]. I am interested in how we understand and model [[complex-system\|complex systems]], particularly those in [[education-system\|education]]. I have spent over a decade in the classroom prior to diving into the world of data, so understanding the [[tacit-knowledge\|tacit-knowledge]] of [[context-experts\|context experts]] in education drives a lot of my research agenda. 
 
-```juggl
-..
-layout: force-directed
-```
+
 
 # Research Overview
 
@@ -87,14 +84,14 @@ What are we trying to do when we do statistical modelling in education?
 	- [ ] Check publications from Ellis Ballard and Moira Zellner around Participatory Modelling
 
 - [[writing--causal-model-elicitation-for-education\|writing--causal-model-elicitation-for-education]]
-- [[writing--knowledge-fragmentation-and-elicitation-through-dags\|writing--knowledge-fragmentation-and-elicitation-through-dags]]
-- [[writing--dag-informed-dashboard-case-study\|writing--dag-informed-dashboard-case-study]]
+- [[writing-on-hold--knowledge-fragmentation-and-elicitation-through-dags\|writing-on-hold--knowledge-fragmentation-and-elicitation-through-dags]]
+- [[writing-on-hold--dag-informed-dashboard-case-study\|writing-on-hold--dag-informed-dashboard-case-study]]
 
 ## Further mathematical modelling (optional)
 
 Paper either on [[structural-causal-games\|structural causal game]]? Something extending work on sims, maybe agent based? 
 
-- [[writing--causal-games-in-education-systems\|writing--causal-games-in-education-systems]]
+- [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]]
 
 ## Modelling book (post-doc)
 
@@ -102,10 +99,10 @@ Paper either on [[structural-causal-games\|structural causal game]]? Something e
 
 ## Collaborations, other
 
-- Paper with Josh on Quant / Qual divide and DAGs as boundary objects [[writing--DAGs-as-boundary-objects\|writing--DAGs-as-boundary-objects]]
-- [[writing--axioms-for-the-grand-challenges-of-LA\|writing--axioms-for-the-grand-challenges-of-LA]]
+- Paper with Josh on Quant / Qual divide and DAGs as boundary objects [[writing-on-hold--DAGs-as-boundary-objects\|writing-on-hold--DAGs-as-boundary-objects]]
+- [[writing-on-hold--axioms-for-the-grand-challenges-of-LA\|writing-on-hold--axioms-for-the-grand-challenges-of-LA]]
 
 ## Informal, blogs
 
-- [x] [[writing--dag-informed-dashboard-case-study\|writing--dag-informed-dashboard-case-study]] ✅ 2025-07-24
+- [x] [[writing-on-hold--dag-informed-dashboard-case-study\|writing-on-hold--dag-informed-dashboard-case-study]] ✅ 2025-07-24
 - Evidence based education, hiding in [[stop-trying-to-optimise-learning\|stop-trying-to-optimise-learning]]

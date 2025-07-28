@@ -8,7 +8,7 @@ Zingone, R., Mocenni, C., & Madeo, D. (2018). _Evolutionary Games, Complex Netwo
  
 #mathematical-modelling/game-theory 
 
-#todo/summarise for [[writing--causal-games-in-education-systems\|writing--causal-games-in-education-systems]], it might have something nice to look up in the methods looking at graphical models and games, evolutionary games on networks:
+#todo/summarise for [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]], it might have something nice to look up in the methods looking at graphical models and games, evolutionary games on networks:
 
 ![Pasted image 20250119141524.png](/img/user/Images/Pasted%20image%2020250119141524.png)
 

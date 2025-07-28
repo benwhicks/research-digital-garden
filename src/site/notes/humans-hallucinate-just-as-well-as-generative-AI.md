@@ -3,6 +3,7 @@
 ---
 
 #writing/blog
+Published here: https://koanmathematics.wordpress.com/2024/04/11/we-can-hallucinate-a-rainbow-as-well-as-any-generative-ai/ 
 
 # Hallucinating AI
 

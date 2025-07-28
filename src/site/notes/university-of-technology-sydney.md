@@ -34,5 +34,7 @@
 - [[People/Amanda Lizier\|Amanda Lizier]]
 - [[People/Ben Hicks\|Ben Hicks]]
 - [[People/Sharyn Wise\|Sharyn Wise]]
+- [[People/Ajanie K\|Ajanie K]]
+- [[People/Shibani Antonette\|Shibani Antonette]]
 
 { .block-language-dataview}

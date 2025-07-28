@@ -17,5 +17,7 @@ People:
 | [[People/Kirsty Kitto\|Kirsty Kitto]]                   |
 | [[People/Andrey Inkin\|Andrey Inkin]]                   |
 | [[People/Ben Hicks\|Ben Hicks]]                         |
+| [[People/Ajanie K\|Ajanie K]]                           |
+| [[People/Shibani Antonette\|Shibani Antonette]]         |
 
 { .block-language-dataview}

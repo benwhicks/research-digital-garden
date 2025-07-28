@@ -5,7 +5,7 @@
 
 - [ ] Thrive - any opportunities for the data collection in the next session with DoE? Can we connect to their big dataset? Reach out to Roman. 
 
-- [ ] Reply to Josh
+- [x] Reply to Josh ✅ 2025-07-28
 - [x] Download of all assurance sessions ✅ 2025-07-07
 
 Talking to people - Jan is the Simon level of XIML. Might be a good contrast of assessment. Also Sophie at Wollongong uni.
