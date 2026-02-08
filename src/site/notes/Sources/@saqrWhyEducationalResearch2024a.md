@@ -5,6 +5,8 @@
 
 Saqr, M., Schreuder, M. J., & López-Pernas, S. (2024). Why Educational Research Needs a Complex System Revolution that Embraces Individual Differences, Heterogeneity, and Uncertainty. In M. Saqr & S. López-Pernas (Eds.), _Learning Analytics Methods and Tutorials: A Practical Guide Using R_ (pp. 723–734). Springer Nature Switzerland. [https://doi.org/10.1007/978-3-031-54464-4_22](https://doi.org/10.1007/978-3-031-54464-4_22)
 [online](http://zotero.org/users/5872672/items/VWTZQGMF) [local](zotero://select/library/items/VWTZQGMF) [pdf](file:///Users/14055622/Zotero/storage/M563MNJE/Saqr%20et%20al.%20-%202024%20-%20Why%20Educational%20Research%20Needs%20a%20Complex%20System%20Re.pdf)
+
+[[People/Mohammed Saqr\|Mohammed Saqr]], [[People/Marieke Schreuder\|Marieke Schreuder]], [[People/Sonsoles López-Pernas\|Sonsoles López-Pernas]]
  
 ## Learning is complex
 

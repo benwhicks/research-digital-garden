@@ -8,6 +8,8 @@ Barbrook-Johnson, P., & Penn, A. S. (2022). Participatory Systems Mapping. In P.
  
 #graphical-modelling 
 
+[[People/Pete Barbrook-Johnson\|Pete Barbrook-Johnson]], [[People/Alexandra Penn\|Alexandra Penn]]
+
 
 
 ### Connections

@@ -7,8 +7,7 @@ Braun, V., & Clarke, V. (2021). One size fits all? What counts as quality practi
 
 ### Connections
 
-supports:: 
-refutes:: 
+[[People/Virginia Braun\|Virginia Braun]], [[People/Victoria Clarke\|Victoria Clarke]]
 
 ### Note
 

@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge-elicitation/"}
 ---
 
-- [ ] #todo/up-next  scoping and review of this field / concept of elicitation of knowledge from [[experts\|experts]]
-
-More specifically I am in interested in the [[elicitation-of-causal-models\|elicitation-of-causal-models]] as part of [[writing--causal-model-elicitation-for-education\|writing--causal-model-elicitation-for-education]]. 
+More specifically I am in interested in the [[elicitation-of-causal-models\|elicitation-of-causal-models]] as part of [[Writing/writing--causal-model-elicitation-with-learning-domain-experts\|writing--causal-model-elicitation-with-learning-domain-experts]]. 
 
 # Reading
 

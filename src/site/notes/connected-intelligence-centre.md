@@ -13,11 +13,12 @@ People:
 | File                                                       |
 | ---------------------------------------------------------- |
 | [[People/Simon Buckingham Shum\|Simon Buckingham Shum]] |
+| [[People/Shibani Antonette\|Shibani Antonette]]         |
+| [[People/Lisa Lim\|Lisa Lim]]                           |
 | [[People/Leonie Payne\|Leonie Payne]]                   |
 | [[People/Kirsty Kitto\|Kirsty Kitto]]                   |
-| [[People/Andrey Inkin\|Andrey Inkin]]                   |
 | [[People/Ben Hicks\|Ben Hicks]]                         |
-| [[People/Ajanie K\|Ajanie K]]                           |
-| [[People/Shibani Antonette\|Shibani Antonette]]         |
+| [[People/Andrey Inkin\|Andrey Inkin]]                   |
+| [[People/Ajanie Karunanayake\|Ajanie Karunanayake]]     |
 
 { .block-language-dataview}

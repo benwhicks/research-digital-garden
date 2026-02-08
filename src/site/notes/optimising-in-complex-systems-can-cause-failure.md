@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/optimising-in-complex-systems-can-cause-failure/"}
 ---
 
+#thought 
 #theory/systems 
 Such as [[Optimising\|Optimising]] for yield in agriculture, and the negative consequences. This has implications for [[learning-analytics\|learning-analytics]], which has a stated aim of optimising learning ( #getref)
 

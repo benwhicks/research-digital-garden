@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/things-can-go-very-wrong-with-naive-approaches/"}
 ---
 
-
+#thought 
 From a talk by [[People/Kirsty Kitto\|Kirsty Kitto]]
 ![Pasted image 20240516145051.png](/img/user/Images/Pasted%20image%2020240516145051.png)
 

@@ -2,12 +2,15 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-#admin 
-This is [[People/Ben Hicks\|my]] [[extended-mind\|extended mind]] for my research, part of which is headed towards a PhD in [[learning-analytics\|Learning Analytics]] with [[connected-intelligence-centre\|CIC]] at [[university-of-technology-sydney\|university-of-technology-sydney]]. I am interested in how we understand and model [[complex-system\|complex systems]], particularly those in [[education-system\|education]]. I have spent over a decade in the classroom prior to diving into the world of data, so understanding the [[tacit-knowledge\|tacit-knowledge]] of [[context-experts\|context experts]] in education drives a lot of my research agenda. 
+This is [[People/Ben Hicks\|my]] [[extended-mind\|extended mind]] for [[my-publications\|my research]], part of which is headed towards a PhD in [[learning-analytics\|Learning Analytics]] with [[connected-intelligence-centre\|CIC]] at [[university-of-technology-sydney\|UTS]]. I am interested in how we understand and model [[complex-system\|complex systems]], particularly those in [[education-system\|education]]. I have spent over a decade in the classroom prior to diving into the world of data, so understanding the [[tacit-knowledge\|tacit-knowledge]] of [[domain-experts\|context experts]] in education drives a lot of my research agenda. 
+
+- My PhD supervisors can keep track of my semi-structured plan details in the [[- working-notebook -\|- working-notebook -]].
+- I sometimes write on a blog: https://koanmathematics.wordpress.com/
 
 > [!important]- A public thinking mind - suppression welcome!
 > This is my notes on thinking, which I am happy to throw out into the public sphere. Not everything is included though - any notes on organisations or people should be suppressed (a 404 error on clicking on them) and certain notes on upcoming writing as well. If you note anything that you feel should not be in the public sphere please reach out to be at `benwhicks at gmail dot com` and I will take it down. 
 
+#admin 
 
 # Research Overview
 
@@ -19,6 +22,7 @@ Embedded in this are some of my underlying biases / hypotheses:
 -  [[thinking-abstractly-is-accessible\|thinking-abstractly-is-accessible]]
 - [[learning-is-complex\|education is complex]]
 - learning has important aspects that [[intangible-data\|may be intangible]]
+- …and lastly, [[causal-reasoning-is-a-very-human-thing-to-do\|causal-reasoning-is-a-very-human-thing-to-do]]
 
 ## Research Questions
 
@@ -35,7 +39,7 @@ Useful has some (possible) subquestions, particularly around:
 
 
 
-# PhD Plan
+# PhD plan
 
 Thesis by [[uts-guidelines-for-thesis-by-compilation\|compilation]].
 
@@ -64,7 +68,6 @@ Thesis by [[uts-guidelines-for-thesis-by-compilation\|compilation]].
 ## Philosophical paper
 
 
-
 ## Navigating the causal inference landscape
 
 
@@ -74,19 +77,11 @@ Could include some of the philosophical ideas, as well as the map of the landsca
 	#todo/read Causation: A very short introduction (on Kindle)
 	#todo/read Scale (on Kindle)
 	#todo/read Philosophy of models book (on Kindle)
+	Material on NESS and HP causation (notes to add)
 
 What are we trying to do when we do statistical modelling in education? 
 
-## [[participatory-causal-modelling\|PCM]] paper(s), applications in Ed
-
-- [ ] Watch https://www.youtube.com/watch?v=GRuUr8m3Y6g&ab_channel=ACCORDSResearch and make some detailed notes on the key ideas and references - stuff on participatory modelling
-	- [ ] Scriptopedia - https://en.wikibooks.org/wiki/Scriptapedia
-	- [ ] Social System Design Lab - Brown Uni
-	- [ ] Check out International System Dynamics summer school - conference options
-	- [ ] And follow up with this - https://www.youtube.com/watch?v=ouNgarXnxjE&ab_channel=TheNationalSocio-EnvironmentalSynthesisCenter
-	- [ ] Check publications from Ellis Ballard and Moira Zellner around Participatory Modelling
-
-- [[writing--causal-model-elicitation-for-education\|writing--causal-model-elicitation-for-education]]
+- [[Writing/writing--causal-model-elicitation-with-learning-domain-experts\|writing--causal-model-elicitation-with-learning-domain-experts]]
 - [[writing-on-hold--knowledge-fragmentation-and-elicitation-through-dags\|writing-on-hold--knowledge-fragmentation-and-elicitation-through-dags]]
 - [[writing-on-hold--dag-informed-dashboard-case-study\|writing-on-hold--dag-informed-dashboard-case-study]]
 
@@ -108,4 +103,4 @@ Paper either on [[structural-causal-games\|structural causal game]]? Something e
 ## Informal, blogs
 
 - [x] [[writing-on-hold--dag-informed-dashboard-case-study\|writing-on-hold--dag-informed-dashboard-case-study]] ✅ 2025-07-24
-- Evidence based education, hiding in [[stop-trying-to-optimise-learning\|stop-trying-to-optimise-learning]]
+- Evidence based education, hiding in [[writing-on-hold--stop-trying-to-optimise-learning\|writing-on-hold--stop-trying-to-optimise-learning]]

@@ -5,8 +5,10 @@
 
 Engzell, P., Frey, A., & Verhagen, M. D. (2021). Learning loss due to school closures during the COVID-19 pandemic. _Proceedings of the National Academy of Sciences_, _118_(17), e2022376118. [https://doi.org/10.1073/pnas.2022376118](https://doi.org/10.1073/pnas.2022376118)
 [online](http://zotero.org/users/5872672/items/PSRPXHUB) [local](zotero://select/library/items/PSRPXHUB) [pdf](file:///Users/14055622/Zotero/storage/NFGB8PDK/Engzell%20et%20al.%20-%202021%20-%20Learning%20loss%20due%20to%20school%20closures%20during%20the%20CO.pdf)
- 
-Potential [[participatory-causal-modelling\|PCM]] use case for [[writing--causal-model-elicitation-for-education\|writing--causal-model-elicitation-for-education]], with dutch schools. 
+
+[[People/Per Engzell\|Per Engzell]], [[People/Aurn Frey\|Aurn Frey]], [[People/Mark Verhagen\|Mark Verhagen]]
+
+Potential [[participatory-causal-modelling\|PCM]] use case for [[Writing/writing--causal-model-elicitation-with-learning-domain-experts\|writing--causal-model-elicitation-with-learning-domain-experts]], with dutch schools. 
 
 
 

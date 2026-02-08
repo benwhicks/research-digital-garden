@@ -7,6 +7,8 @@
 Pandey, V., & Chatterjee, K. (2016). Game-theoretic models identify useful principles for peer collaboration in online learning platforms. _Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion_, 365–368. [https://doi.org/10.1145/2818052.2869122](https://doi.org/10.1145/2818052.2869122)
 [online](http://zotero.org/users/5872672/items/KGMJV6JN) [local](zotero://select/library/items/KGMJV6JN)
 
+[[People/Vineet Pandey\|Vineet Pandey]], [[People/Krishnendu Chatterjee\|Krishnendu Chatterjee]]
+
 [[game-theory\|game-theory]], [[game-theory-game\|game-theory-game]]
 
 Implements a [[cooperation-or-conflict-games\|cooperation game]] simulation to show that design choices in a peer feedback system can dramatically influence the integrity of the peer feedback system. In particular, they examine the effect of including a threshold for the number of peer feedbacks a student must provide before seeing others feedback of their own work, with the game showing that without this requirement [[free-riders\|free loading]] behaviour arises and degrades the peer feedback system. 

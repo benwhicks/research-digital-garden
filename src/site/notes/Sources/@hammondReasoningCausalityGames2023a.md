@@ -8,7 +8,9 @@ Hammond, L., Fox, J., Everitt, T., Carey, R., Abate, A., & Wooldridge, M. (2023)
  
 #todo/summarise #mathematical-modelling/game-theory #graphical-modelling 
 
-An application of extending [[game-theory\|game-theory]] to [[causal-dags\|causal-dags]] via an existing tool called [[multi-agent-influence-diagrams\|multi-agent-influence-diagrams]]. The authors use Pearl's [[ladder-of-causation\|ladder-of-causation]] [[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]] along with the use of agents that account for model many interactions in a system to sort some  modelling options across those two axes:
+[[People/Lewis Hammond\|Lewis Hammond]], [[People/James Fox\|James Fox]], [[People/Tom Everitt\|Tom Everitt]], [[People/Ryan Carey\|Ryan Carey]], [[People/Alessandro Abate\|Alessandro Abate]], [[People/Michael Wooldridge\|Michael Wooldridge]] 
+
+An application of extending [[game-theory\|game-theory]] to [[causal-dags\|causal-dags]] via an existing tool called [[multi-agent-influence-diagrams\|multi-agent-influence-diagrams]]. The authors use Pearl's [[causal-hierarchy\|causal-hierarchy]] [[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]] along with the use of agents that account for model many interactions in a system to sort some  modelling options across those two axes:
 
 ![hammond BN to SCG framework.png](/img/user/Images/hammond%20BN%20to%20SCG%20framework.png)
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/causal-graph-modelling-codebook/"}
 ---
 
+#thought 
 For thematic coding of [[participatory-causal-modelling\|Participatory Causal Modelling]] sessions. 
 
 Each broad category should be internally mutually exclusive. So only one *graph* code should happen at any one time, and only one *causation* aspect should be discussed at one time. Some should overlap in particular ways, such as: `structure::path::reroute` should always wrap over a combo of `graph::edge::add` and `graph::edge::delete`. 
@@ -28,11 +29,11 @@ Codebook draft one as image (delete later, for backup)
 - divergence?
 - surprise?
 
-- [ ] #todo/this-week revise codes. So far graph and structure capture talk to model. Need better codes to capture graphical model to talk, and then perhaps talk between people / surprise / divergence. Is there a way this could be seen as moving between graph and participants, with self-feedback? Drawing graph is participants to graph, but there is also p->p, where they are reflecting. Is there a g->g code? Does the graph (with it's rules) somehow inform itself? Is this the facilitator prompting? Or editing / causal implications? Or do we need another node - the theory we are trying to form?? Does the facilitator need to come in as a node? What is it when the facilitator notices something about the graph, and uses it to probe into how the expert understands the system?
-	- [ ] Thinking: graph + people, theory, graph interactions (below) + argumentation schemes + MAYBE TCM + MAYBE abstraction. Code with these and then look at what is useful.
-- [ ] #todo/this-week Using an argumentation scheme? Might be a disctraction / to-formal? Simons book Argumentation Schemes by Walkton, Reed Macagno. CHAPTER 5. Encoding / Decoding from [[Sources/@rosenLifeItself1991\|@rosenLifeItself1991]].
-- [ ] #todo/this-week Does the coding adequately answer the questions of: the graph helping people think *causally* about the system? Or more *formally*?
-- [ ] #todo/this-week read the argumentation themes book. Has some good stuff. 
+- [x]  revise codes. So far graph and structure capture talk to model. Need better codes to capture graphical model to talk, and then perhaps talk between people / surprise / divergence. Is there a way this could be seen as moving between graph and participants, with self-feedback? Drawing graph is participants to graph, but there is also p->p, where they are reflecting. Is there a g->g code? Does the graph (with it's rules) somehow inform itself? Is this the facilitator prompting? Or editing / causal implications? Or do we need another node - the theory we are trying to form?? Does the facilitator need to come in as a node? What is it when the facilitator notices something about the graph, and uses it to probe into how the expert understands the system? ✅ 2025-08-14
+	- [x] Thinking: graph + people, theory, graph interactions (below) + argumentation schemes + MAYBE TCM + MAYBE abstraction. Code with these and then look at what is useful. ✅ 2025-10-02
+- Using an argumentation scheme? Might be a disctraction / to-formal? Simons book Argumentation Schemes by Walkton, Reed Macagno. CHAPTER 5. Encoding / Decoding from [[Sources/@rosenLifeItself1991\|@rosenLifeItself1991]]. ✅ 2025-10-02
+-  Does the coding adequately answer the questions of: the graph helping people think *causally* about the system? Or more *formally*?
+- [x] read the argumentation themes book. Has some good stuff. ✅ 2025-10-02
 
 Is there a case for [[causal-diagrams-not-discerning-between-sufficient-and-necessary-causation\|causal-diagrams-not-discerning-between-sufficient-and-necessary-causation]]? In this case it might be prudent to code for discussion between [[sufficient-cause\|sufficient-cause]] and [[necessary-cause\|necessary-cause]], and what is harder to model as a [[graphical-causal-model\|graphical-causal-model]].
 
@@ -176,7 +177,7 @@ Moving from _phenomena_ to _data_. If we think these things happen in the world,
 
 # causation
 
-Based on [[ladder-of-causation\|ladder-of-causation]].
+Based on [[causal-hierarchy\|causal-hierarchy]].
 
 ## causation::association
 

@@ -5,7 +5,9 @@
 
 Thomas, G. (2021). Experiment’s persistent failure in education inquiry, and why it keeps failing. _British Educational Research Journal_, _47_(3), 501–519. [https://doi.org/10.1002/berj.3660](https://doi.org/10.1002/berj.3660)
 [online](http://zotero.org/users/5872672/items/JB83I3QH) [local](zotero://select/library/items/JB83I3QH) [pdf](file:///Users/14055622/Zotero/storage/NXINQTUQ/Thomas%20-%202021%20-%20Experiment’s%20persistent%20failure%20in%20education%20inqui.pdf)
- 
+
+[[People/Gary Thomas\|Gary Thomas]]
+
 # Blog post 
 There is a [blog post](https://www.bera.ac.uk/blog/what-can-experiment-tell-us-in-educational-research) outlining this paper.
 

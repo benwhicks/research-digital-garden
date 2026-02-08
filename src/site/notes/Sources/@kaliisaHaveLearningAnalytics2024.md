@@ -6,7 +6,7 @@
 Kaliisa, R., Misiejuk, K., López-Pernas, S., Khalil, M., & Saqr, M. (2024). Have Learning Analytics Dashboards Lived Up to the Hype? A Systematic Review of Impact on Students’ Achievement, Motivation, Participation and Attitude. _Proceedings of the 14th Learning Analytics and Knowledge Conference_, 295–304. [https://doi.org/10.1145/3636555.3636884](https://doi.org/10.1145/3636555.3636884)
 [online](http://zotero.org/users/5872672/items/I6UGZHFL) [local](zotero://select/library/items/I6UGZHFL) [pdf](file:///Users/14055622/Zotero/storage/Y7LJNT93/Kaliisa%20et%20al.%20-%202024%20-%20Have%20Learning%20Analytics%20Dashboards%20Lived%20Up%20to%20the.pdf)
  
-
+[[People/Rogers Kaliisa\|Rogers Kaliisa]], [[People/Kamila Misiejuk\|Kamila Misiejuk]], [[People/Sonsoles López-Pernas\|Sonsoles López-Pernas]], [[People/Mohammad Khalil\|Mohammad Khalil]], [[People/Mohammed Saqr\|Mohammed Saqr]]
 
 
 

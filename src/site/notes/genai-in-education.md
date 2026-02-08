@@ -17,7 +17,7 @@
 
 ## GenAI in Ed: Learning
 
-Is faster actually better? A lot of the lauded benefits of [[GenAI\|GenAI]] are around making things faster, more efficient, but is this actually of benefit to learning? The brain, and THINKING, is a limiting factor here. Sometimes learning is slow. 
+Is faster actually better? A lot of the lauded benefits of [[generative-artificial-intelligence\|generative-artificial-intelligence]] are around making things faster, more efficient, but is this actually of benefit to learning? The brain, and THINKING, is a limiting factor here. Sometimes learning is slow. 
 h
 Alternatively, what would a heavily augmented teaching practice look like, based on GenAI, where the student *never* sees the AI? For instance, supported in planning and admin, but not in the classroom. 
 

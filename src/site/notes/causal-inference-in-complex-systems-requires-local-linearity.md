@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/causal-inference-in-complex-systems-requires-local-linearity/"}
 ---
 
+#thought 
 Making a [[causal-claim\|causal claim]] in a [[complex-system\|complex system]] is difficult. We need to assume some kind of [[linear-causality\|linear-causality]] within some bounds, or a locality.   **Note: No references, this is my thought**
 
-[[causality-can-be-opaque-in-complex-systems\|causality-can-be-opaque-in-complex-systems]]
+[[causality-can-be-opaque-in-complex-systems\|causality-can-be-opaque-in-complex-systems]], [[causal-inference\|causal-inference]]
 
 [This video](https://www.youtube.com/watch?v=NmJ89ujITLo) by [[People/Eric Winsberg\|Eric Winsberg]]. Dives into causal inferences made over the pandemic. Is good - certainly pessimistic about making claims using existing techniques, at least until the dust has settled. 
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/koans/"}
 ---
 
-Keeping nice koans here. They might be useful. Links to thinking about [[abstraction-etc\|abstraction-etc]] and [[abstract-thinking\|abstract-thinking]]
+Keeping nice koans here. They might be useful. Links to thinking about [[writing-blog--abstraction-etc\|writing-blog--abstraction-etc]] and [[abstract-thinking\|abstract-thinking]]
 
 Resources - https://www.reddit.com/r/nondenominationalzen/comments/lxkaf2/zen_resources_list/
 

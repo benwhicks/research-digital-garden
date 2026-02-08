@@ -5,10 +5,7 @@
 Grames, E. M., Schwartz, D., & Elphick, C. S. (2022). A systematic method for hypothesis synthesis and conceptual model development. _Methods in Ecology and Evolution_, _13_(9), 2078–2087. [https://doi.org/10.1111/2041-210X.13940](https://doi.org/10.1111/2041-210X.13940)
 [online](http://zotero.org/users/5872672/items/ZVWAY7SC) [local](zotero://select/library/items/ZVWAY7SC) [pdf](file:///Users/14055622/Zotero/storage/EYM3V2ME/Grames%20et%20al.%20-%202022%20-%20A%20systematic%20method%20for%20hypothesis%20synthesis%20and%20c.pdf)
 
-### Connections
-
-supports:: 
-refutes:: 
+[[People/Eliza Grames\|Eliza Grames]], [[People/Danielle Schwartz\|Danielle Schwartz]], [[People/Chris Elphick\|Chris Elphick]]
 
 ### Note
 
@@ -130,7 +127,7 @@ How different is the structure of conceptual models for this topic over space? [
 
 >[!quote|#5fb236] Reference
 >
-![Images/gramesSystematicMethodHypothesis2022/gramesSystematicMethodHypothesis2022-6-x38-y266.png](/img/user/Images/gramesSystematicMethodHypothesis2022/gramesSystematicMethodHypothesis2022-6-x38-y266.png) 
+![[Images/gramesSystematicMethodHypothesis2022/gramesSystematicMethodHypothesis2022-6-x38-y266.png\|Images/gramesSystematicMethodHypothesis2022/gramesSystematicMethodHypothesis2022-6-x38-y266.png]] 
 
 
 >[!quote|#e56eee] 

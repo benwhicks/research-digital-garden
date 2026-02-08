@@ -8,6 +8,7 @@ Macagno, F., Walton, D., & Reed, C. (2018). _Argumentation Schemes_ (pp. 517–5
  
 Recommended by [[People/Simon Buckingham Shum\|Simon Buckingham Shum]] as the be all and end all on arguments. 
 
+[[People/Fabrizio Macagno\|Fabrizio Macagno]], [[People/Douglas Walton\|Douglas Walton]], [[People/Chris Reed\|Chris Reed]]
 
 
 Chapter 5 is on [[causality\|causation]] from a dialogic point of view. 

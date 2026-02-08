@@ -3,3 +3,6 @@
 ---
 
 
+[[People/Heather Bullock\|Heather Bullock]], [[People/Lisa Harlow\|Lisa Harlow]], [[People/Stanley Mulaik\|Stanley Mulaik]]
+
+Possible for [[writing--navigating-the-causal-inference-landscape\|writing--navigating-the-causal-inference-landscape]]

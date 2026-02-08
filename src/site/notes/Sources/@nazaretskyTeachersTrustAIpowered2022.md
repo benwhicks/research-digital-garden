@@ -8,6 +8,8 @@ Nazaretsky, T., Ariely, M., Cukurova, M., & Alexandron, G. (2022). Teachers’ t
 
 #todo/summarise 
 
+[[People/Tanya Nazaretsky\|Tanya Nazaretsky]], [[People/Moriah Ariely\|Moriah Ariely]], [[People/Mutlu Cukurova\|Mutlu Cukurova]], [[People/Giora Alexandron\|Giora Alexandron]]
+
 Paper with [[People/Mutlu Cukurova\|Mutlu Cukurova]] who chatted with me at [[Memos/250304-LAK25-DC\|250304-LAK25-DC]] about the problem of measuring trust. References [[Sources/@vereschakHowEvaluateTrust2021\|@vereschakHowEvaluateTrust2021]].
 
 # Notes

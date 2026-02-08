@@ -8,6 +8,8 @@ Winsberg, E., & Harvard, S. (2024). _Scientific Models and Decision Making_. Cam
 
 #todo/read
 
+[[People/Eric Winsberg\|Eric Winsberg]], [[People/Stephanie Harvard\|Stephanie Harvard]]
+
 ### Connections
 
 supports:: 

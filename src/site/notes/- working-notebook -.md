@@ -3,32 +3,70 @@
 ---
 
 
+# Writing plan
+
+## For [[lak-26\|lak-26]]
+
+[[workshop--causal-modelling-lak-26\|workshop--causal-modelling-lak-26]] materials to prepare, finalise. This includes [[requirements-for-a-causal-modelling-support-tool\|requirements-for-a-causal-modelling-support-tool]] that will be partially built into a new version of [[loopy\|loopy]], which in turn could be a tool report for the [[journal-of-learning-analytics\|Journal of Learning Analytics]] (see below). 
+
+LAK conference: **27 April - 1 May 2026** in Bergen. [[lak-26\|lak-26]]
+
+## For [[aied-26\|aied-26]]
+
+Festival of learning, Korea, is a mix of [[aied-26\|aied-26]], [[edm-26\|edm-26]] and [[l@s-26\|l@s-26]] (could go to any of these, but AIEd call seems appropriate). [AIEd-26 call for papers](https://www.aied-conference.org/2026/call-for-paper)
+
+```mermaid
+gantt
+	title Shifting paper to AI-Ed
+	dateFormat YYYY-MM-DD
+	axisFormat %d-%b
+	tickInterval 2week
+	Feedback received. :milestone, 2025-12-07, 0d
+	Mourning / Review.  :7d
+	Planning.  :7d
+	BREAK.       :done, 14d
+	Gap research.  :7d
+	Drafting.   :14d
+	Abstract due. :milestone, 2026-01-26, 0d
+	Paper deadline. :milestone, 2026-02-02
+	Notification. :milestone, 2026-03-16
+	Camera ready. :milestone, 2026-04-13
+```
+
+AIEd conference is in **Soul, Korea** from 29 June - 3 July 2026, as part of the [[festival-of-learning-2026\|festival-of-learning-2026]]
+
+
+
+## [[journal-of-learning-analytics\|JLA]] tool report on revised [[loopy\|loopy]] version with data tracking
+
+```mermaid
+gantt
+	title Tool report - JLA
+	dateFormat YYYY-MM-DD
+	axisFormat %d-%b
+	tickInterval 2week
+	Section Tool development
+	Tool development. :2026-01-09, 28d
+
+	Section Writing report
+	Indicative submission. :milestone, 2026-04-20, 0d
+```
+
+
+## [[journal-of-learning-analytics\|JLA]] paper on [[writing--navigating-the-causal-inference-landscape\|Navigating the causal inference landscape]]
+
+This is the "paper 1" in the thesis, outlining the various [[causal-inference\|causal-inference]] methods and setting up the scene for the paper [[Sources/@hicksThinkingCausalModels2022\|@hicksThinkingCausalModels2022]]. 
+
+```mermaid
+gantt
+	title Navigation paper - JLA
+	dateFormat YYYY-MM-DD
+```
+
+# Task dump
+
 - [ ] Thrive - any opportunities for the data collection in the next session with DoE? Can we connect to their big dataset? Reach out to Roman. 
 
-- [x] Reply to Josh ✅ 2025-07-28
-- [x] Download of all assurance sessions ✅ 2025-07-07
-
-Talking to people - Jan is the Simon level of XIML. Might be a good contrast of assessment. Also Sophie at Wollongong uni.
-- [x] Simon to contact Jan. Flat out and at HERDSA atm but would be good to talk to. Likes thinking in Systems. ✅ 2025-07-21
-	- [x] Follow up meeting schedule for [[People/Jan McLean\|Jan McLean]] ✅ 2025-07-22
-- [ ] Amanda? Was senior lecturer in FASS. [[People/Amanda Lizier\|Amanda Lizier]] - expert in assessment design. 
-- [ ] Right up concerns around group dynamics around the early session. Group session dynamics. 
-	- [ ] When did the lower power dynamic speak up and question? Can we usurp the power dynamics in some way through the diagram? Does the shared diagram enforce, or subvert, power dynamics?
-	- [ ] Is there a coding around "questioning", "supporting" for the dialogues - like the argument mapping?
-
-
-From early July meeting - reading for [[writing--navigating-the-causal-inference-landscape\|writing--navigating-the-causal-inference-landscape]]
-- [ ] #read https://link.springer.com/content/pdf/10.1007/BF00413963.pdf - CAUSATION IN THE SOCIAL SCIENCES: AN OVERVIEW*
-- [ ] #read https://doi.org/10.1007/978-3-031-12982-7_2 - Causation in the Social Realm
-- [ ] #read re read [[Sources/@thomasExperimentPersistentFailure2021\|@thomasExperimentPersistentFailure2021]] - Experiments persistent failure in Education
-- [ ] #read https://www.researchgate.net/profile/Joseph-Maxwell-3/post/What-is-the-best-method-for-impact-evaluation-when-there-is-no-control-group-or-baseline-data/attachment/5caf33f73843b01b9b994243/AS%3A746479438282753%401554985975609/download/Evidence+for+what%3F+Final.pdf - Evidence for what? How mixed methods expands the evidence for causation in educational research
-
-Writing: these are the people arguing we need claims, these are some of the things, ... 
-"Warrants in the social sciences"
-
-
-From early July meeting:
-- [ ] Knowledge elicitation from experts using diagrams - check the [[Sources/@barbrook-johnsonParticipatorySystemsMapping2022\|@barbrook-johnsonParticipatorySystemsMapping2022]] again, with the lens of necessary vs sufficient cause. 
 
 
 # To Do
@@ -95,7 +133,7 @@ Publication plan in [[- - home - -\|- - home - -]]
 ### Section 3: Collaborative Causal Modelling
 
 - *Collaborative Causal Modelling* workshop, ALASI24 #getref 
-- [[participatory-causal-modelling\|PCM]] paper(s), outlined here: [[writing--causal-model-elicitation-for-education\|writing--causal-model-elicitation-for-education]]
+- [[participatory-causal-modelling\|PCM]] paper(s), outlined here: [[Writing/writing--causal-model-elicitation-with-learning-domain-experts\|writing--causal-model-elicitation-with-learning-domain-experts]]
 
 ### Section 4: Other options...
 

@@ -20,7 +20,7 @@ This was talked about nicely on [this podcast](https://casualinfer.libsyn.com/wh
 
 [[four-causes-of-Aristotle\|four-causes-of-Aristotle]]
 
-[[ladder-of-causation\|ladder-of-causation]] by [[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]]
+[[causal-hierarchy\|causal-hierarchy]] by [[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]]
 
 [[necessary-and-sufficient-cause\|necessary-and-sufficient-cause]]
 

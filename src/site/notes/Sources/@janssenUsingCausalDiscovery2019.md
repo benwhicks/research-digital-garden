@@ -8,7 +8,11 @@ Janssen, S., Sharpanskykh, A., Curran, R., & Langendoen, K. (2019). Using causal
 
 #todo/summarise #graphical-modelling 
 
+[[People/Stef Janssen\|Stef Janssen]], [[People/Alexei Shapanskykh\|Alexei Shapanskykh]], [[People/Richard Curran\|Richard Curran]], [[People/Koen Langendoen\|Koen Langendoen]]
+
 Probably connects with [[Sources/@hammondReasoningCausalityGames2023a\|@hammondReasoningCausalityGames2023a]], and helps bridge between [[causal-dags\|causal-dags]] and [[complex-system\|complex-system]].
+
+Maybe for [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]]
 
 
 ### Connections

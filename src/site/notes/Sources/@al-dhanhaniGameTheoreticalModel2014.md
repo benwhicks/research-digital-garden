@@ -8,6 +8,8 @@ Al-Dhanhani, A., Mizouni, R., Otrok, H., & Al-Rubaie, A. (2014). A game theoreti
 
 #mathematical-modelling/game-theory 
 
+[[People/Ahmed Al-Dhanhani\|Ahmed Al-Dhanhani]], [[People/Rabeb Mizouni\|Rabeb Mizouni]], [[People/Hadi Otrok\|Hadi Otrok]], [[People/Ahmad Al-Rubaie\|Ahmad Al-Rubaie]]
+
 The paper adopts the [[social-exchange-theory\|social-exchange-theory]] as a basis to build a [[game-theory\|game theoretic]] model of knowledge exchange between learners in an online environment, with the main trade being requesting help and answering questions. The [[prisoners-dilemma\|prisoners-dilemma]] is used as a starting point because of the need to analyse a situation were reciprocation is central to success of the group, and [[tit-for-tat-strategy\|tit-for-tat-strategy]] as a base starting strategy for simulation. They then suggest group reputation as a new [[tit-for-tat-strategy\|tit-for-tat-strategy]] to motivate free riders to be more collaborative.
 
 Methods involve setting up the games, then running simulations to examine the overall fitness. 

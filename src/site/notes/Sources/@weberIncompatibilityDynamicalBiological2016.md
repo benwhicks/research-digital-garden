@@ -8,11 +8,4 @@ Weber, M. (2016). On the Incompatibility of Dynamical Biological Mechanisms and 
  
 #todo/summarise might be good for [[causal-inference-in-complex-systems-requires-local-linearity\|causal-inference-in-complex-systems-requires-local-linearity]]
 
-
-
-### Connections
-
-supports:: 
-refutes:: 
-
-### Notes
+[[People/Marcel Weber\|Marcel Weber]]

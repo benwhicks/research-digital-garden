@@ -6,6 +6,8 @@
 Zong, Z., Schunn, C. D., & Wang, Y. (2022). Do experiences of interactional inequality predict lower depth of future student participation in peer review? _Computers in Human Behavior_, _127_, 107056. [https://doi.org/10.1016/j.chb.2021.107056](https://doi.org/10.1016/j.chb.2021.107056)
 [online](http://zotero.org/users/5872672/items/EJ5HRFAN) [local](zotero://select/library/items/EJ5HRFAN)
 
+[[People/Zheng Zong\|Zheng Zong]], [[People/Christian Schunn\|Christian Schunn]], [[People/Yanqing Wang\|Yanqing Wang]]
+
 #mathematical-modelling/game-theory 
 
 Modelling [[peer-feedback\|peer-feedback]] amongst psychology students. Seems to be more of a [[game-theoretic-explanations\|game-theoretic-explanations]] or informed model, rather than a new model (checking this...)

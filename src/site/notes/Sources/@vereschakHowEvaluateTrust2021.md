@@ -8,6 +8,8 @@ Vereschak, O., Bailly, G., & Caramiaux, B. (2021). How to Evaluate Trust in AI-A
 
 #todo/read 
 
+[[People/Oleksandra Vereschak\|Oleksandra Vereschak]], [[People/Gilles Bailly\|Gilles Bailly]], [[People/Baptiste Caramiaux\|Baptiste Caramiaux]]
+
 Might help with the [[problem-of-measuring-trust\|problem-of-measuring-trust]]. This is cited in [[Sources/@nazaretskyTeachersTrustAIpowered2022\|@nazaretskyTeachersTrustAIpowered2022]] that addresses the problem as well. 
 
 

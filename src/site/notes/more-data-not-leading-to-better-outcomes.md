@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/more-data-not-leading-to-better-outcomes/"}
 ---
 
+#thought 
 More data has not led to consistently better educational outcomes, and there is a lack of evidence about the effectiveness of many EdTech tools, often despite substantial investment in various evaluation programs:  
 
 “out of 10,654 studies included in the What Works Clearinghouse in mid-April, only 188—less than 2 percent—concluded that a product had strong or moderate evidence of effectiveness.” (García et al., 2020)

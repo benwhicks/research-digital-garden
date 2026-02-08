@@ -5,11 +5,11 @@
 #graphical-modelling 
 
 Making edits on a [[causal-dags\|causal-graph]].  
-- [ ] #todo/this-week  fill this out a lot. Link with DAG prompts and prior codebook where possible. 
 
 Would be good to understand these in terms of changes to the [[adjacency-matrix\|adjacency-matrix]] in terms of the [[space-of-possible-DAGs\|space-of-possible-DAGs]], as well as the [[path-space-of-DAGs\|path-space-of-DAGs]]. 
 
-- [ ] #todo/this-week  Explore if tidygraph R package is a way to document graph changes. They have morph, unmorph functions. 
+Also, these should all be in a [[requirements-for-a-causal-modelling-support-tool\|requirements-for-a-causal-modelling-support-tool]] such as [[loopy\|loopy]]
+
 
 # Types of edits to a causal graph / DAG
 

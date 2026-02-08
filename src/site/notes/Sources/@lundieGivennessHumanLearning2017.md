@@ -6,6 +6,8 @@
 Lundie, D. (2017). The Givenness of the Human Learning Experience and Its Incompatibility with Information Analytics. _Educational Philosophy and Theory_, _49_(4), 391–404. [https://doi.org/10.1080/00131857.2015.1052357](https://doi.org/10.1080/00131857.2015.1052357)
 [online](http://zotero.org/users/5872672/items/4HQBTPJP) [local](zotero://select/library/items/4HQBTPJP) [pdf](file:///Users/14055622/Zotero/storage/VVP8USAC/Lundie%20-%202017%20-%20The%20Givenness%20of%20the%20Human%20Learning%20Experience%20and.pdf)
 
+[[People/David Lundie\|David Lundie]]
+
 Highlights the fundamental tension between what we experience of as 'learning' and how we analyse it using information artefacts. 
 
 > [!quote] 

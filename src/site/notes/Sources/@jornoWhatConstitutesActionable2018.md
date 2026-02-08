@@ -6,7 +6,7 @@
 Jørnø, R. L., & Gynther, K. (2018). What Constitutes an ‘Actionable Insight’ in Learning Analytics? _Journal of Learning Analytics_, _5_(3), Article 3. [https://doi.org/10.18608/jla.2018.53.13](https://doi.org/10.18608/jla.2018.53.13)
 [online](http://zotero.org/users/5872672/items/6NG37FWX) [local](zotero://select/library/items/6NG37FWX) [pdf](file:///Users/14055622/Zotero/storage/ZEVG2IBK/Jørnø%20and%20Gynther%20-%202018%20-%20What%20Constitutes%20an%20‘Actionable%20Insight’%20in%20Learni.pdf)
  
-
+[[People/Rasmus Leth Jørnø\|Rasmus Leth Jørnø]], [[People/Karsten Gynther\|Karsten Gynther]]
 
 
 

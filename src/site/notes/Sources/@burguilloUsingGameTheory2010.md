@@ -8,6 +8,8 @@ Burguillo, J. C. (2010). Using game theory and Competition-based Learning to sti
 
 #mathematical-modelling/game-theory 
 
+[[People/Juan Burguillo\|Juan Burguillo]]
+
 Builds on theory of [[competition-based-learning\|competition-based-learning]] to help [[student-motivation\|student-motivation]], but is implementing this in terms of game theory tournaments. (??) 
 
 This is [[not-actually-a-game-theory-model\|not-actually-a-game-theory-model]] but rather a game-theory inspired application for [[learning-gamification\|learning-gamification]].

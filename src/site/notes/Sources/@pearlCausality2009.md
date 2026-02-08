@@ -11,7 +11,6 @@ Pearl, J. (2009). _Causality_. Cambridge University Press.
 
 ### Connections
 
-supports:: 
-refutes:: 
+[[People/Judea Pearl\|Judea Pearl]]
 
 ### Notes

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/different-system-models-offer-different-affordances/"}
 ---
 
+#thought 
 #graphical-modelling 
 Depending on the kind of [[graphical-causal-model\|Systems Map]] that is used, this will have different kinds of analytical affordances. 
 

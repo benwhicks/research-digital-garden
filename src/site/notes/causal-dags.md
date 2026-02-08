@@ -8,12 +8,6 @@ Causal Directed Acyclic Graphs (Causal [[directed-acyclic-graph\|DAG]]s, or simp
 
 The relationships only indicate some kind of causal effect, and not the functional form of it. With the functional form the become a Structural Causal Model ([[structural-causal-model\|SCM]]). If only the functional relationships are defined (usually for the linear case) then this is often called a Structural Equation Model ([[structural-equation-model\|SEM]]). 
 
-### Thinking:
-It might be worth splitting this out:
-- DAGs 
-- Bayesian Networks
-A causal DAG is a particular interpretation of the two above.
-
 ### Imprecise Terminology
 A [[directed-acyclic-graph\|DAG]] need not be interpreted causally - it is simply a collection of nodes and directed edges. However the community often refers to Causal DAGs simply as DAGs.
 

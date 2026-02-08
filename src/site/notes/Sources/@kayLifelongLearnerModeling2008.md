@@ -6,7 +6,7 @@
 Kay, J. (2008). Lifelong Learner Modeling for Lifelong Personalized Pervasive Learning. _IEEE Transactions on Learning Technologies_, _1_(4), 215–228. [https://doi.org/10.1109/TLT.2009.9](https://doi.org/10.1109/TLT.2009.9)
 [online](http://zotero.org/users/5872672/items/YFFQG26W) [local](zotero://select/library/items/YFFQG26W) [pdf](file:///Users/14055622/Zotero/storage/FEKG45ZH/Kay%20-%202008%20-%20Lifelong%20Learner%20Modeling%20for%20Lifelong%20Personalize.pdf)
  
-
+[[People/Judy Kay\|Judy Kay]]
 
 
 

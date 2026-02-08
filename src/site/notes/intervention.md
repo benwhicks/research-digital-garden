@@ -3,6 +3,6 @@
 ---
 
 #theory/causation 
-Pearls definition, link to [[ladder-of-causation\|ladder-of-causation]]
+Pearls definition, link to [[causal-hierarchy\|causal-hierarchy]]
 do-operator
 graph surgery?

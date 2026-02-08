@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/learning-theories-point-to-important-missing-data/"}
 ---
 
-
+#thought 
 Ditched from paper on LAK25 paper #getref 
 
 Relates to [[intangible-data\|intangible-data]] and [[theories-of-learning\|theories of learning]]

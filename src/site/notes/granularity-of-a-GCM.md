@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/granularity-of-a-gcm/"}
 ---
 
+#thought 
 #graphical-modelling 
 #theory/systems 
 The granuality of the system model is a key concern. Too course a grain may lead to a loss of fidelity that means important insights could be missed, and too fine a grain may render the model incomprehensible. 

@@ -8,7 +8,7 @@ Ross, L. N. (2024). Causal Constraints in the Life and Social Sciences. _Philoso
  
 #todo/summarise - might be good for the [[causal-inference-in-complex-systems-requires-local-linearity\|causal-inference-in-complex-systems-requires-local-linearity]]
 
-
+[[People/Lauren Ross\|Lauren Ross]]
 
 ### Connections
 

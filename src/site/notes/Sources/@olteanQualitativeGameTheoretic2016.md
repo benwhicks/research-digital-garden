@@ -7,6 +7,9 @@ Oltean, V. E., Borangiu, T., & Drăgoicea, M. (2016). On a Qualitative Game Theo
 [online](http://zotero.org/users/5872672/items/T2VUX9I5) [local](zotero://select/library/items/T2VUX9I5) [pdf](file:///Users/14055622/Zotero/storage/GEAXQA4X/Oltean%20et%20al.%20-%202016%20-%20On%20a%20Qualitative%20Game%20Theoretic%20Approach%20of%20Teache.pdf)
 
 #mathematical-modelling/game-theory 
+
+
+[[People/Virginia Ecaterina Oltean\|Virginia Ecaterina Oltean]], [[People/Theodor Borangiu\|Theodor Borangiu]], [[People/Monica Drăgoicea\|Monica Drăgoicea]]
  
 Extends the work by [[Sources/@correaTeacherstudentInteractionGame1987\|@correaTeacherstudentInteractionGame1987]] of teacher-student effort, combining with work from [[Sources/@selimEducationMarketEgypt2008\|@selimEducationMarketEgypt2008]], and another I couldn't find from Fukahiru (2005). Also works on using migration - views in the context of "global competition and human migration: the national public education systems are subsystems of a global, interconnected system". 
 

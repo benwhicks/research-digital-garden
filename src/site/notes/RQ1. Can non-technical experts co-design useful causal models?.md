@@ -7,7 +7,7 @@
 
 
 ### Who?
-The [[context-experts\|non-technical experts]] are people who understand the *context* of the system being modelled, but not necessarily the data or the technical apparatus used to model the system. 
+The [[domain-experts\|non-technical experts]] are people who understand the *context* of the system being modelled, but not necessarily the data or the technical apparatus used to model the system. 
 
 This means, in the process of co-designing causal models, we will need to answer [[RQ1.1. What level of technical expertise do participants have?\|RQ1.1. What level of technical expertise do participants have?]], particularly in relation to graphical causal models. 
 

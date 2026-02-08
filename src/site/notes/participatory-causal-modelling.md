@@ -4,7 +4,7 @@
 
 #participatory-modelling
 
-The process of collaboratively constructing a [[graphical-causal-model\|graphical-causal-model]], using the requirements of [[causal-dags\|causal-dags]] to guide the incremental formalisation of the model. Further detail of the causal relationships might be specified in the form of [[signed-edges\|signed-edges]],  [[fuzzy-edges\|fuzzy-edges]] , or  [[functional-edges\|functional-edges]]. This process ideally happens with a range of experts, but critically it aims to facilitate more meaningful collaboration between [[data-experts\|data-experts]] and [[context-experts\|context-experts]].  This is done using the [[visual-formalism\|visual-formalism]] of a graph representing the causal structure. 
+The process of collaboratively constructing a [[graphical-causal-model\|graphical-causal-model]], using the requirements of [[causal-dags\|causal-dags]] to guide the incremental formalisation of the model. Further detail of the causal relationships might be specified in the form of [[signed-edges\|signed-edges]],  [[fuzzy-edges\|fuzzy-edges]] , or  [[functional-edges\|functional-edges]]. This process ideally happens with a range of experts, but critically it aims to facilitate more meaningful collaboration between [[data-experts\|data-experts]] and [[domain-experts\|domain-experts]].  This is done using the [[visual-formalism\|visual-formalism]] of a graph representing the causal structure. 
 
 ## Protocol (Research)
 

@@ -4,6 +4,8 @@
 
 [[Sources/@barbrook-johnsonParticipatorySystemsMapping2022\|@barbrook-johnsonParticipatorySystemsMapping2022]] best overview. 
 
+The process of creating a [[graphical-causal-model\|systems map]] using [[domain-experts\|context experts]].
+
 #participatory-modelling 
 #graphical-modelling 
 

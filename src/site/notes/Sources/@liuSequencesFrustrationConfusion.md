@@ -8,6 +8,7 @@ Liu, Z., Pataranutaporn, V., & Ocumpaugh, J. (n.d.). _Sequences of Frustration a
  
 #todo/summarise briefly for [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]]; mainly just as the first paper on [[confrustion-affective-learning-state\|confrustion-affective-learning-state]] as a [[affective-learning-state\|affective-learning-state]]. 
 
+[[People/Zhongxiu Liu\|Zhongxiu Liu]], [[People/Visit Pataranutaporn\|Visit Pataranutaporn]], [[People/Jaclyn Ocumpaugh\|Jaclyn Ocumpaugh]]
 
 
 # Notes

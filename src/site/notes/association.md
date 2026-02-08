@@ -11,5 +11,5 @@ Association between two variables in when the change in the value of one variabl
 
 
 
-[[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]] describe Association / Seeing as the lowest rung on their  [[ladder-of-causation\|ladder-of-causation]]
+[[Sources/@pearlBookWhyNew2018\|@pearlBookWhyNew2018]] describe Association / Seeing as the lowest rung on their  [[causal-hierarchy\|causal-hierarchy]]
 

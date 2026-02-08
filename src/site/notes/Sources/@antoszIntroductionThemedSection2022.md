@@ -7,6 +7,8 @@ Antosz, P., Bharwani, S., Borit, M., & Edmonds, B. (2022). An introduction to th
 [online](http://zotero.org/users/5872672/items/C6FEQV8T) [local](zotero://select/library/items/C6FEQV8T) [pdf](file:///Users/14055622/Zotero/storage/VXG4GLPD/Antosz%20et%20al.%20-%202022%20-%20An%20introduction%20to%20the%20themed%20section%20on%20‘Using%20ag.pdf)
 #todo/summarise - good for the paper on [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]]
 
+[[People/Patrycja Antosz\|Patrycja Antosz]];  [[People/Sukaina Bharwani\|Sukaina Bharwani]]; [[People/Melania Borit\|Melania Borit]]; [[People/Bruce Edmonds\|Bruce Edmonds]] 
+
 
 
 

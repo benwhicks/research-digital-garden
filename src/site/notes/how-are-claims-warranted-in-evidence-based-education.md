@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/how-are-claims-warranted-in-evidence-based-education/"}
 ---
 
+#thought 
 In [[evidence-based-education\|evidence-based-education]], how are [[causal-claim\|causal-claim]]s warranted? 
 
 Ways:

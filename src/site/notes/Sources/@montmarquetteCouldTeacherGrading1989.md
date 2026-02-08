@@ -8,6 +8,8 @@ Montmarquette, C., & Mahseredjian, S. (1989). Could teacher grading practices ac
 
 #mathematical-modelling/game-theory 
 
+[[People/Claude Montmarquette\|Claude Montmarquette]], [[People/Sophie Mahseredjian\|Sophie Mahseredjian]]
+
 Builds on the model from [[Sources/@correaTeacherstudentInteractionGame1987\|@correaTeacherstudentInteractionGame1987]] to examine unexplained variation in school achievements. Concerned with [[grade-inflation\|grade-inflation]]
 
 They highlight that with a [[teacher-student-interaction-model\|teacher-student-interaction-model]], a [[game-theory\|game-theory]] model, that a "harder grading will cause a positive response if the student's preferences are such that the elasticity of substitution between academic and nonacademic activities exceeds 1 ^[That is that the exchange is [[elasticity\|elastic]]] [[Sources/@correaTeacherstudentInteractionGame1987\|@correaTeacherstudentInteractionGame1987]].

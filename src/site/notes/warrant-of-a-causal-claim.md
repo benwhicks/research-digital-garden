@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/warrant-of-a-causal-claim/"}
 ---
 
+#thought 
 #theory/causation 
 
 A [[causal-claim\|causal-claim]] is seldom self-evident, requiring a warrant from some kind of theory along with observation. [[causal-inference\|causal-inference]] frameworks are defined processes to address this, but they are not the only way. 

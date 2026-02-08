@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/different-ways-a-system-can-be-complex/"}
 ---
 
-
+#thought 
 #theory/systems 
 A [[complex-system\|complex system]] can be complex for different reasons. It might be a challenge of scale, with important interactions happening at a fine granularity that are then observed at a larger scale as [[emergence\|emergent effects]]. These many, small interactions may happen too quickly to be meaningfully observable, such as the many interactions in a classroom between people, but the effect in aggregate is critical. Another way systems might be complex is through layers of feedback, with events happening how affecting what happens in the future at ...
 

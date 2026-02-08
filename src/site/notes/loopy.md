@@ -3,6 +3,9 @@
 ---
 
 http://efa.unisa.edu.au/Loopy
+https://github.com/DrJPK
+https://github.com/antoninkin/loopy
+
 
 #resource/tool 
 

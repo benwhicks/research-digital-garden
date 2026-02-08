@@ -8,6 +8,8 @@ Quigley, D. P. (2013). Where Do We Go From Here? Education, Best Practices, and 
  
 #mathematical-modelling/game-theory 
 
+[[People/David Quigley\|David Quigley]]
+
 This paper looks at the overall effectiveness of the US education system, in light of a 2001 NCLB legislation. It in essence uses a more qualitative argument, using [[game-theoretic-explanations\|game-theoretic-explanations]] around finding equilibrium in a system. The final argument is around the need for decisions to be made at multiple levels - this is actually more of a [[learning-is-complex\|education is complex]] argument, using a game theory idea as a vehicle. 
 
 ### Connections

@@ -8,7 +8,7 @@ Törmänen, T., Järvenoja, H., Saqr, M., Malmberg, J., & Järvelä, S. (2023). 
  
 #todo/summarise for [[writing-on-hold--causal-games-in-education-systems\|writing-on-hold--causal-games-in-education-systems]]
 
-
+[[People/Tiina Törmänen\|Tiina Törmänen]], [[People/Hanna Järvenoja\|Hanna Järvenoja]], [[People/Mohammed Saqr\|Mohammed Saqr]], [[People/Jonna Malmberg\|Jonna Malmberg]], [[People/Sanna Järvelä\|Sanna Järvelä]]
 
 ### Connections
 

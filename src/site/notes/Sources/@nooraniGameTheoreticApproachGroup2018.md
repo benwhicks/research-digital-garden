@@ -8,6 +8,8 @@ Noorani, S. F., Manshaei, M. H., Montazeri, M. A., & Zhu, Q. (2018). Game-Theore
  
 #mathematical-modelling/game-theory 
 
+[[People/Seyede Fatemah Noorani\|Seyede Fatemah Noorani]], [[People/Mohammad Hossein Manshaei\|Mohammad Hossein Manshaei]], [[People/Mohammad Ali Montazeri\|Mohammad Ali Montazeri]], [[People/Quanyan Zhu\|Quanyan Zhu]]
+
 Building a game around the tools of *explanation* and *competition*. The game is a simulation of a typical learning scenario of answering questions (individually) and then the instructor using students to explain answers.
 
 Players (learners) answer a question individually, and get a payoff for correct answers. The instructor then goes through the question, but selects a student for to share their solution and explain it. Other learners can be active or passive, mechanised through answering questions with or without effort, and provide explanations with or without care. The key results are in the [[nash-equilibrium\|NE]] analysis, where learners are motivated to work in a positive state when the reward structure favours positivity over punishment, in particular allocating a reward three times the size of the punishment. This is interesting as a "three stars and a question" mode of feedback is a pedagogical instruction tool. 
